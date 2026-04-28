@@ -1,4 +1,4 @@
 resource "azurerm_resource_group" "rh" {
-    name = "raju"
+    name = "kaju"
 location = "westus"  
 }
